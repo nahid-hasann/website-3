@@ -133,7 +133,9 @@ main{
     margin-bottom: 50px;
 }
 
-
+.feedback-review {
+    
+}
 
 .reviwer{
     display: flex;
@@ -170,8 +172,4 @@ main{
 .date{
     color: rgba(179, 179, 179, 1);
     font-weight: 300;
-}
-
-.star p {
-    color: rgba(30, 30, 30, 1);
 }
