@@ -179,7 +179,7 @@ main{
 .free-section{
     background-color: rgba(255, 255, 255, 1);
     border-radius: 12px;
-    padding: 60px 80px;
+    padding: 40px 80px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -201,9 +201,4 @@ main{
 
 .free p{
     color: rgba(0, 0, 0, 0.5);
-    font-size: 15px;
-}
-
-.free img{
-    border-radius: 22px;
 }

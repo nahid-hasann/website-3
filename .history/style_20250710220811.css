@@ -179,31 +179,9 @@ main{
 .free-section{
     background-color: rgba(255, 255, 255, 1);
     border-radius: 12px;
-    padding: 60px 80px;
+    padding: 40px 80px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 130px;
-}
-
-.free{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.free h1{
-    font-size: 50px ;
-    font-weight: 700;
-}
-
-.free p{
-    color: rgba(0, 0, 0, 0.5);
-    font-size: 15px;
-}
-
-.free img{
-    border-radius: 22px;
 }
