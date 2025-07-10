@@ -212,39 +212,15 @@ main{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    gap: 40px;
-    margin-bottom: 130px;
+    
 }
 
 .form-heading{
-    font-size: 60px;
+    font-size: 97px;
     font-weight: 700;
 }
 
 .form input{
       border: none;
-      width: 497px;
-      height: 70px;
-      font-size: 20px;
-      padding: 12px 0 12px 15px;
-      margin-top: 10px;
-      border-radius: 12px;
-}
-
-.form label{
-    margin-bottom: 10px;
-}
-
-.form textarea{
-     border: none;
-      width: 497px;
-      height: 140px;
-      font-size: 20px;
-      padding: 12px 0 12px 15px;
-      margin-top: 10px;
-      border-radius: 12px;
-      resize: none;
-}
-.form button{
-    width: 497px;
+      width: ;
 }

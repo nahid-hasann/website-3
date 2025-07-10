@@ -213,7 +213,7 @@ main{
     justify-content: space-around;
     align-items: center;
     gap: 40px;
-    margin-bottom: 130px;
+    
 }
 
 .form-heading{
@@ -227,24 +227,8 @@ main{
       height: 70px;
       font-size: 20px;
       padding: 12px 0 12px 15px;
-      margin-top: 10px;
-      border-radius: 12px;
 }
 
 .form label{
-    margin-bottom: 10px;
-}
-
-.form textarea{
-     border: none;
-      width: 497px;
-      height: 140px;
-      font-size: 20px;
-      padding: 12px 0 12px 15px;
-      margin-top: 10px;
-      border-radius: 12px;
-      resize: none;
-}
-.form button{
-    width: 497px;
+    margin-bottom: ;
 }
