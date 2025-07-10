@@ -255,23 +255,4 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-}
-
-.footer-section h1{
-    font-size: 100px;
-    color: #4e47ff;
-}
-
-.footer-section p{
-    color: rgba(137, 135, 161, 1);
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.link {
-    color: rgba(137, 135, 161, 1);
-    text-decoration: none;
-    display: inline-block;
-    margin: 0 10px;
 }
