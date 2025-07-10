@@ -43,13 +43,6 @@ body{
     font-size: 16px;
 }
 
-.btn:hover{
-    background-color: yellow;
-    padding: 14px 30px;
-    transition: 0.5s;
-    color: black;
-}
-
 .section-2{
      
     display: flex;
@@ -86,7 +79,4 @@ main{
     font-size: 44px;
 }
 
-.action-title p{
-    color: rgba(37, 36, 50, 0.5);
-    font-size: 24px;
-}
+.action-title p

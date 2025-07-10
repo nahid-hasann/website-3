@@ -43,12 +43,7 @@ body{
     font-size: 16px;
 }
 
-.btn:hover{
-    background-color: yellow;
-    padding: 14px 30px;
-    transition: 0.5s;
-    color: black;
-}
+.btn:
 
 .section-2{
      

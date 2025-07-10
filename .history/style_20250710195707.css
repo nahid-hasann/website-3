@@ -44,10 +44,7 @@ body{
 }
 
 .btn:hover{
-    background-color: yellow;
-    padding: 14px 30px;
-    transition: 0.5s;
-    color: black;
+    background-color: ;
 }
 
 .section-2{
